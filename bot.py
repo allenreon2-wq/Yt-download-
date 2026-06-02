@@ -14,7 +14,7 @@ from telegram.request import HTTPXRequest
 
 # ==================== CONFIGURATION ====================
 # आपने जो टोकन और आईडी दी है, वो यहाँ ऐड कर दी गई है
-BOT_TOKEN = "8106042109:AAHaMFkdXkaH5EYrLKbQTCqSuoHH6ecM5zU"
+BOT_TOKEN = "8827329221:AAESe4s23G6756UG2A7U1BjI6S6Hb_Zbw2Q"
 OWNER_ID = 8679298308
 PORT = int(os.getenv("PORT", 10000))
 
